@@ -1,1 +1,1 @@
-web: npx expo start --web --port $PORT
+web: npx serve dist -s -l $PORT
