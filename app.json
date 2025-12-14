@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "ChessTraining",
+    "slug": "chess-training",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#2e7d32"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.chesstraining.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
